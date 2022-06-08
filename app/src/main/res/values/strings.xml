@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHub Test Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Логин</string>
+    <string name="repository">Репозиторий</string>
+    <string name="commit">Commit</string>
+    <string name="message">Сообщение:</string>
+    <string name="author">Автор:</string>
+    <string name="date">Дата:</string>
+    <string name="sha">Sha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
